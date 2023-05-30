@@ -1,0 +1,9 @@
+Genre,Taille(cm),Poids(kg),Pointure(cm)
+masculin,182,81.6,30
+masculin,180,86.2,28
+masculin,170,77.1,30
+masculin,180,74.8,25
+féminin,152,45.4,15
+féminin,168,68.0,20
+féminin,165,59.0,18
+féminin,175,68.0,23
